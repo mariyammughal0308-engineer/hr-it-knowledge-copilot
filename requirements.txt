@@ -1,0 +1,10 @@
+langchain
+langchain-community
+langchain-text-splitters
+pypdf
+python-docx
+fastapi
+uvicorn
+python-dotenv
+rank-bm25
+chromadb
